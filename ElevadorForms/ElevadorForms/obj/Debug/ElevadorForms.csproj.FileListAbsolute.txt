@@ -1,0 +1,12 @@
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\bin\Debug\ElevadorForms.exe.config
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\bin\Debug\ElevadorForms.exe
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\bin\Debug\ElevadorForms.pdb
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\obj\Debug\ElevadorForms.csprojAssemblyReference.cache
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\obj\Debug\ElevadorForms.Form1.resources
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\obj\Debug\ElevadorForms.Properties.Resources.resources
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\obj\Debug\ElevadorForms.csproj.GenerateResource.cache
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\obj\Debug\ElevadorForms.csproj.CoreCompileInputs.cache
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\obj\Debug\ElevadorForms.exe
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\obj\Debug\ElevadorForms.pdb
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\obj\Debug\ElevadorForms.Form2.resources
+C:\Users\capacitaciones\source\repos\ElevadorForms\ElevadorForms\obj\Debug\ElevadorForms.Form3.resources
